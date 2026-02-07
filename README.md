@@ -3,7 +3,7 @@ A basic bash package installation script for Arch Linux<br>
 The light version is the original script with the in built documentation & settings removed for a smaller file size.<br>
 <br>
 To Run:<br>
-<i>curl htt<span>ps://</span>raw.githubusercontent.com/OffensiveDoge/Archutil/refs/heads/main/archutil_v1.00.sh > archutil.sh && bash archutil.sh</i><br>
+<i>curl htt<span>ps://</span>raw.githubusercontent.com/OffensiveDoge/Archutil/refs/heads/main/archutil_v1.01.sh > archutil.sh && bash archutil.sh</i><br>
 or<br>
 <i>curl htt<span>ps://</span>raw.githubusercontent.com/OffensiveDoge/Archutil/refs/heads/main/archutil_v1.00light.sh > archutillight.sh && bash archutillight.sh</i>
 
