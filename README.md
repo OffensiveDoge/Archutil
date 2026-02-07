@@ -1,6 +1,8 @@
 # Archutil
 A basic bash package installation script for Arch Linux
 
+The light version is the original script with the in built documentation & settings removed for a smaller file size.
+
 Bugs still may exist, but all should be fine
 
 Current Packages include:
